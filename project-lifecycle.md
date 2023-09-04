@@ -29,7 +29,15 @@ Projects may not necessarily move through those states in a linear way and may g
 
 # Proposal
 
-Project Proposals must be submitted to the **OC** for review, using [Proposal Template](TODO). Proposals that are approved enter into an *Incubation* state, unless they are of a refactoring nature, in which case the project is turned over to the relevant project maintainers to handle as they deem fit.
+New project proposals must be submitted to the **OC** for review using a [Project Proposal Issue Template](https://github.com/Green-Software-Foundation/oc/issues/new?labels=project%2C+proposed&projects=&template=new-project-proposal.md&title=%5BProject%5D+Title+Of+Project). 
+
+The Working Group identified in the project proposal as the **Governing Working Group (GWG)** discusses the proposal internally. They can ask for advice from the OC or other committees in the GSF, but ultimately, the GWG approves or rejects the project proposal. 
+
+The OC is consulted and informed about project proposals; they can comment on project proposals and object to decisions made by the GWG, but they cannot approve projects themselves. The most common objection from the OC would be if they disagreed with the Working Group identified as the Governing Working Group for the project proposal. The bar is intentionally low for incubation projects to encourage experimentation.
+
+Once the WG approves a project proposal, the OC has **two more weeks** to raise any objections; if none are received, the project is approved.
+
+Proposals that are approved enter into an *Incubation* state, unless they are of a refactoring nature, in which case the project is turned over to the relevant project maintainers to handle as they deem fit.
 
 A Proposal must:
 
