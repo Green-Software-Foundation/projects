@@ -2,6 +2,9 @@
 
 The term "project" within Green Software Foundation refers to a collaborative endeavor to deliver a work item. There are two types of projects at the Green Software Foundation:  Document Projects and Software Projects. Document Projects are consensus-based. They produce a document, such as a requirements or use cases document, a whitepaper, or analysis. Software projects are maintainer-based. They develop a new capability, refactor, or remove an existing capability for the Green Software Foundation technology releases. Such projects may take the form of a new component (e.g. a new repository) or may propose additions, deletions, or changes to an existing repository or repositories.
 
+**All projects must comply with their Working Group charter.** 
+
+
 ### The Software Project Lifecycle Process 
 <br />
 
@@ -98,7 +101,7 @@ The project must meet the Incubation requirements as well as the following:
   > End User Guide (enablement.md)
   
   >  Test coverage
-  > 
+  
   > Fit within GSF Theory of Change
 - Have made a release deployment, even a ‘developer preview’
 - Evidence of usefulness through real world use cases in the production environment, including testimonials (adopters.md)
