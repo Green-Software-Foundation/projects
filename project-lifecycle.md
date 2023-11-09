@@ -108,9 +108,8 @@ The project must meet the Incubation requirements as well as the following:
 - Have 100% of the applicable criteria for the Open SSF Best Practice Badge (security.md)
 - Have an incident process agreed with GSF PM
 - Have GSF processes set up including
-  > Project meetings and mailing list
   
-  > Up to date project documentation on confluence
+  > Project meetings and mailing list
   
   > Provide regular updates to the relevant WG
   
