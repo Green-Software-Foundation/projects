@@ -31,6 +31,11 @@ e.g. It will improve tooling by “xxxxx”.
 - [ ] Policy
 - [ ] Standards
 
+**Operating Model:** Will this project operate based on:
+
+- [ ] Consensus - Goal is everyone agree to every change so we are speaking with one voice when the deliverable is released.
+- [ ] Maintainers - The Project Leads listen to feedback and incorporate it back into the project if they see fit. 
+
 **Problem**: List 3-5 problems this audience has that this project will attempt to address. Describe Why is this project better at solving a problem compared to parallel proposals or implemented projects? **MAX 200 WORDS**
 
 **Solution**: Try to make this as detailed as possible. The topics given below are just suggestions; address them only if they are relevant to your problem:
