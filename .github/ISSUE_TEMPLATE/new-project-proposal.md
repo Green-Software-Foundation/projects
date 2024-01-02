@@ -3,7 +3,7 @@ name: New project proposal
 about: To propose and discuss new GSF projects
 title: "[Project] Title Of Project"
 labels: project, proposed
-assignees: 'tmcclell, Sealjay, seanmcilroy29'
+assignees: Sealjay, seanmcilroy29, tmcclell
 
 ---
 

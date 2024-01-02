@@ -3,7 +3,7 @@ name: New agenda item
 about: To propose and discuss a new agenda item for the OC
 title: "[Agenda Item] Name of your proposed agenda item"
 labels: agenda-item, proposed
-assignees: 'tmcclell, Sealjay, seanmcilroy29'
+assignees: Sealjay, seanmcilroy29, tmcclell
 
 ---
 
