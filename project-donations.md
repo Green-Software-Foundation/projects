@@ -40,7 +40,7 @@ The body proposing to donate a project to the Green Software Foundation is expec
 
 
 ### APPROVAL PROCESS
-The donating body must submit the Donation proposal template (link to be added) issue to the Working Group for consensus approval. 
+The donating body must submit the [Donation proposal template](https://github.com/Green-Software-Foundation/oc/issues/new?assignees=tmcclell&labels=&projects=&template=donate-a-project.md&title=%5BProject+Donation%5D+Title+Of+Project+) issue to the Working Group for consensus approval. 
 
 Once WG approval is gained, the GSF PM must submit an issue to the Oversight Committee repo for awareness. They have 2 weeks to comment / object. 
 
