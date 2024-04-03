@@ -1,9 +1,9 @@
 ---
 name: New agenda item
-about: To propose and discuss a new agenda item for the OC
+about: 'To propose and discuss a new agenda item '
 title: "[Agenda Item] Name of your proposed agenda item"
 labels: agenda-item, proposed
-assignees: Sealjay, seanmcilroy29, tmcclell
+assignees: ''
 
 ---
 
